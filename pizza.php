@@ -29,7 +29,7 @@
     }
     ?>
     <br>
-    <p>Autor: ChenZhexiang</p>
+    <p>Autor: ChenZhexiang.</p>
 <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
 </body>
 </html>
