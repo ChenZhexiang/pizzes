@@ -27,9 +27,11 @@
         echo "El preu és $pvp € (IVA inclòs)<br>";
 #	exit(0);
     }
+	echo date("l jS \of F Y h:i:s A") . "<br>";
     ?>
     <br>
     <p>Autor: ChenZhexiang.</p>
+
 <a href="pizza.html">Retorna al formulari de selecció d’ingredients</a>
 </body>
 </html>
